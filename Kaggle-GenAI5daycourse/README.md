@@ -2,15 +2,15 @@
 
 Kaggle conducted a 5-day course on fundamentals of AI using Gemini 1.5 API between 11 November 2024 to 15 November 2024. The program suggested that anyone new to AI should get a basic introduction by going through this [Google Cloud Skills Boost course](https://www.cloudskillsboost.google/paths/118/course_templates/536). 
 
-They shared resources everyday through email which included the following resources:
+Resources were shared everyday through email which included the following resources:
 - a white paper to read : This is very comprehensive resource and takes time to read. It is highly advisable to read this is leisure.
 - A summary podcast of the white paper for the day
 - Kaggle notebook with examples on how to use the API for the concepts covered in the white paper of the day.
 - A live Q&A session on Youtube.
 
-ONly on day 5 they shared a github starter pack instead of Kaggle notebook.
+Only on day 5 a github starter pack was shared instead of Kaggle notebook.
 
-The below table shares links to the original material shared.
+The below table includes links to the original material shared.
 
 | **Day** | **Whitepaper** | **Podcast** | **Kaggle Notebook** | **Q&A session** |
 |---------|----------------|-------------|--------------|-----------------|
